@@ -1,0 +1,17 @@
+p{
+font-family: arial;
+font-size: 15pt;
+}
+
+.container{
+background-color: cyan;
+}
+.judul{
+color: #7be048; 
+background-color: #067508 ; 
+border-radius: 10px;
+}
+
+#text{
+font-family: cursive;
+}
